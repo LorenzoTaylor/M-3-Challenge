@@ -6,5 +6,5 @@ Ultimately we didnt make it past the first round but i was taught how to delegat
 
 I was responsible for the entirety of section one of the code and parts of other sections where i worked together with fellow teammembers,
 
-The Problem: : https://m3challenge.siam.org/archives/2021/problem 
+The Problem: : https://m3challenge.siam.org/archives/2021/problem                                                                                                                   
 Our Solution: https://github.com/LorenzoTaylor/M-3-Challenge/blob/main/T%2315130%20-%20M-3%20Challenge%20.pdf
